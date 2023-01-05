@@ -1,0 +1,12 @@
+Create a JSON file with key value pairs. 
+{
+	"name": "Jahira"
+	"name": "Nyla"
+}
+Create a JSON file with key value pairs having the different data types which JSON supports.
+{
+	"id" : "001"
+	"Course" : "Testing"
+	"Stage" : "Beginner"
+}
+
